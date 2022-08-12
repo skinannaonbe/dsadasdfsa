@@ -1,0 +1,20 @@
+local codes = {
+    "FIRSTRAIDS",
+    "FictioNTheFirst",
+    "SubToKelvingts",
+    "TOADBOIGAMING",
+    "KingLuffy",
+    "subtosnowrbx",
+    "noclypso",
+    "SubToBlamspot",
+    "Cxrsed",
+    "subtomaokuma",
+    "MARINEFORD",
+    "GHOUL",
+    "MUGENTRAIN",
+}
+
+for i , v in pairs(codes) do
+    game:GetService("ReplicatedStorage").endpoints.client_to_server.redeem_code:InvokeServer(v)
+    wait()
+end
