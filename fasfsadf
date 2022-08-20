@@ -12,6 +12,7 @@ local codes = {
     "MARINEFORD",
     "GHOUL",
     "MUGENTRAIN",
+    "HOLLOW",
 }
 
 for i , v in pairs(codes) do
