@@ -1,15 +1,16 @@
 local codes = {
-    "QUESTFIX",
-    "HOLLOW",
+    "FAIRY2",
+    "FAIRY",
     "subtomaokuma",
+    "FictioNTheFirst",
     "SubToKelvingts",
-    "SubToBlamspot",
     "TOADBOIGAMING",
     "KingLuffy",
     "noclypso",
     "subtosnowrbx",
     "Cxrsed",
     "FictioNTheFirst",
+    "SubToBlamspot",
 }
 
 for i , v in pairs(codes) do
